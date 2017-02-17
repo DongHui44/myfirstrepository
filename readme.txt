@@ -1,3 +1,1 @@
-This is my first git project!
-hehe
-branch dev
+This is my first git project
